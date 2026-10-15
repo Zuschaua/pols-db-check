@@ -1,2 +1,1 @@
-# pols-db-check
-Throwaway repository for a pols.so live check of database links (step 3). Holds no code; safe to delete.
+Throwaway branch for a pols.so live check of the build dependency cache. Safe to delete.
